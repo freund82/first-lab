@@ -1,0 +1,23 @@
+[33mcommit 645ca24eef81435e653a814105c0b951d0c12144[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Maxim Utkin <maxim2001_2001@mail.ru>
+Date:   Wed Nov 6 22:13:19 2024 +0300
+
+    Добавил инфо о HEAD
+
+[33mcommit 83ede70bbd30c61bbaed704899449a676b897ae5[m
+Author: Maxim Utkin <maxim2001_2001@mail.ru>
+Date:   Wed Nov 6 22:08:16 2024 +0300
+
+    Добавил инфо о логе
+
+[33mcommit 30e26f3ed55286244ad1d4601d1387def7f12770[m
+Author: Maxim Utkin <maxim2001_2001@mail.ru>
+Date:   Wed Nov 6 22:02:46 2024 +0300
+
+    Добавил раздел о Хеш
+
+[33mcommit 0a3be434dbcd4dad0ead4e5fdedf3e552e67bb89[m
+Author: Maxim Utkin <maxim2001_2001@mail.ru>
+Date:   Sat Nov 2 13:09:42 2024 +0300
+
+    Создал файл README.MD
