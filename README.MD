@@ -103,7 +103,11 @@ Head это специальный файл который хранится в �
 Схема
   ```mermaid  
 graph LR;
-%% схема статусов файлов.  
-  A-->B
+%% схема статусов файлов:
+  untracked--"git add"-->staged
+modified--"git add"-->staged
+staged-->modified
+staged--"git commit"-->tracked
+tracked--"Изменение"-->modified
 
 
